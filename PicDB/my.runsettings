@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="targetpath" value="D:\FH_Informatik\4_Semester\SWE\SS2017\ITP4\ITP4_CS\deploy" />
+  </TestRunParameters>
+</RunSettings>
